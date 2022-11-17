@@ -1,6 +1,6 @@
 (package "cycle-slash"
          "0.1.0"
-         "")
+         "Cycle through slash, backslash, and double backslash")
 
 (website-url "https://github.com/jcs-elpa/cycle-slash")
 (keywords "convenience")
