@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "cycle-slash"
          "0.1.0"
          "Cycle through slash, backslash, and double backslash")
